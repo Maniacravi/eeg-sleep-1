@@ -19,6 +19,8 @@ dependencies = [
 [dependency-groups]
 dev = [
     "ipykernel>=7.1.0",
+    "jupyterlab-widgets>=3.0.16",
     "notebook>=7.5.0",
     "pip>=25.3",
+    "widgetsnbextension>=4.0.15",
 ]
